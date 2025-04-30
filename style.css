@@ -1,0 +1,21 @@
+body{
+    display: flex;
+}
+#nav{
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    height: 1000px;
+    background-color: #4B5320;
+    
+}
+img{
+    width: 130px;
+    border-radius: 65px;
+    margin-top: 35px;
+}
+#section{
+    width: 600px;
+    border: 2px solid black;
+
+}
